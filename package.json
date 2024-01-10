@@ -1,0 +1,15 @@
+{
+  "name": "vexchord-model-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-json": "node index.js --generate-json",
+    "generate-dart": "node index.js --generate-dart"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.0"
+  }
+}
